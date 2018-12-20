@@ -341,9 +341,9 @@ nav {
   
   
 }
-.about-info {
+/* .about-info {
   
-}
+} */
 .about-info h2 {
   font-size: 45px;
   font-weight: 500;
@@ -381,9 +381,9 @@ nav {
 .about-list {
   color: #36454f;
 }
-.about-statistic {
-  /* float: left; */
-}
+/* .about-statistic {
+  
+} */
 .about-statistic img {
   margin-left: 150px;
   margin-top: 40px;
@@ -452,13 +452,9 @@ nav {
   margin-bottom: 30px;
 
 }
-.clients div img{
-  /* height: auto;
-  position: relative;
-  top: 50%;
-  transform: translate(0,-50%); 
-  display:block; */
-}
+/* .clients div img{
+
+} */
 .devider {
   display: inline-block;
   margin-top: auto;
